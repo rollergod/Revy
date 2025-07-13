@@ -1,0 +1,14 @@
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.AssemblyInfoInputs.cache
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.AssemblyInfo.cs
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.csproj.CoreCompileInputs.cache
+D:\Projects\2024\Revy\Revy\bin\Debug\net9.0\Revy.exe
+D:\Projects\2024\Revy\Revy\bin\Debug\net9.0\Revy.deps.json
+D:\Projects\2024\Revy\Revy\bin\Debug\net9.0\Revy.runtimeconfig.json
+D:\Projects\2024\Revy\Revy\bin\Debug\net9.0\Revy.dll
+D:\Projects\2024\Revy\Revy\bin\Debug\net9.0\Revy.pdb
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.dll
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\refint\Revy.dll
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.pdb
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\Revy.genruntimeconfig.cache
+D:\Projects\2024\Revy\Revy\obj\Debug\net9.0\ref\Revy.dll
